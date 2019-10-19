@@ -2,7 +2,7 @@
 This repo contains my research and thoughts on engineering different aspects of autonomous organization. Progressing iteratively and slowly. 
 
 I try to do two things here:
-* Write about the whole picture by aggregating useful resources from past, present & future
+* Write (as an engineer) about the whole picture by aggregating useful resources from past, present & future
 * Solve a very few of them which aligns with my domain of interest, starting from the very basics
 
 What I wouldn't do:
