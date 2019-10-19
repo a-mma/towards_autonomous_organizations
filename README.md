@@ -1,11 +1,11 @@
 # Towards Autonomous Organizations
 This repo contains my research and thoughts on engineering different aspects of autonomous organization. Progressing iteratively and slowly. 
 
-I try to do two things here:
+### I try to do two things here
 * Write (as an engineer) about the whole picture by aggregating useful resources from past, present & future
 * Solve a very few of them which aligns with my domain of interest, starting from the very basics
 
-What I wouldn't do:
+### What I wouldn't do
 * Buzz around throwing fantasy and imaginary stories hoping that someone in the future will do those non practical things and the life will get better where we can sit around and chit-chat about almost anything. (I'm mocking typical medium posts here, get it?)
 
 * Do not expect this from here:
