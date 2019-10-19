@@ -11,4 +11,10 @@ What I wouldn't do:
 * Do not expect this from here:
 ![wall-E](https://i.ytimg.com/vi/Yw7WAq_GZY8/maxresdefault.jpg)
 
-Interested? [Start here](https://github.com/a-mma/towards_autonomous_organizations/blob/master/Towards%20Autonomous%20Organizations.pdf)
+
+Interested?
+### Documentation & specs
+* [Draft & in progress](https://github.com/a-mma/towards_autonomous_organizations/blob/master/Towards%20Autonomous%20Organizations.pdf)
+
+### Experiments:
+* [Permissioned distribution of improved versions of Machine Learning models to edge devices with IPFS decentralized networks and Hyperlefger Fabric blockchain (Node JS)](https://github.com/freakeinstein/permissioned_content_addressed_ML)
