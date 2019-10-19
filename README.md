@@ -1,4 +1,4 @@
-# towards_autonomous_organizations
+# Towards Autonomous Organizations
 This repo contains my research and thoughts on engineering different aspects of autonomous organization. Progressing iteratively and slowly. 
 
 I try to do two things here:
