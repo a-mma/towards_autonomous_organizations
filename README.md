@@ -10,3 +10,5 @@ What I wouldn't do:
 
 * Do not expect this from here:
 ![wall-E](https://i.ytimg.com/vi/Yw7WAq_GZY8/maxresdefault.jpg)
+
+Interested? [Start here](https://github.com/a-mma/towards_autonomous_organizations/blob/master/Towards%20Autonomous%20Organizations.pdf)
